@@ -1,2 +1,2 @@
 # Calculator
-A Code-Clause Internship Task about Creating a Calculator GUI using Python.
+A Code-Clause Internship Task about Creating a Calculator GUI using Python.The code uses tkinter as the GUI platform and python code to create a calculator that performs the basic arthimetic operations like addition,subtraction,multiplication,division with the help of buttons.The code also shows an error message displaying Syntax incase of errors like division by zero etc.The basic application that clears the input when clicked on the C button.
